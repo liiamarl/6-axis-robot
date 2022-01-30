@@ -23,8 +23,10 @@ Therefore i will remake it when i'm satisfied with my software and managed to co
 Some videos of the robot in action (change the quality to 1080p otherwise it's all blurry idk what append here): 
 speed testing : 
 https://drive.google.com/file/d/13-3ETRIs8skaFkm4ivGpO7MBdzcWkttJ/view?usp=sharing
+
 manual teach and repeat :
 https://drive.google.com/file/d/13KtLAo7f85VwjT2PGi888gaMC-sLZVy7/view?usp=sharing
+
 world frame movements with a 90g payload (movements are not smooth but the point was only to test the inverse kinematics):
 https://drive.google.com/file/d/13RQ4p_W5TPF8WYblhjcw3lXpy9PoeAgZ/view?usp=sharing
 
