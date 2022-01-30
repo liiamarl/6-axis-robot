@@ -30,3 +30,6 @@ https://drive.google.com/file/d/13KtLAo7f85VwjT2PGi888gaMC-sLZVy7/view?usp=shari
 world frame movements with a 90g payload (movements are not smooth but the point was only to test the inverse kinematics):
 https://drive.google.com/file/d/13RQ4p_W5TPF8WYblhjcw3lXpy9PoeAgZ/view?usp=sharing
 
+You can find the electricals schematics and the source code in this repository, keep in mind this is still farr from finished :)
+
+
